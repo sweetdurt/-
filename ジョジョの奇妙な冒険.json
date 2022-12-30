@@ -3,18 +3,14 @@
   "description": "The universe of JoJo's Bizarre Adventure is a reflection of the real world with the added existence of supernatural forces and beings.\nIt's also weird, or should I say... Bizarre...",
   "artist": "飛呂彦荒木",
   "author": "飛呂彦荒木",
-  "cover": "https://imgur.com/a/aQdo4bs",
+  "cover": "",
   "chapters": {
     "1": {
       "title": "Chapter 1",
       "volume": "1",
-      "last_updated": "1672404367",
+      "last_updated": "1672408835",
       "groups": {
-        "ジョジョの奇妙な冒険": [
-          "https://drive.google.com/uc?export=view&id=1ny37gQgUg5L-0NAm6Hax1djo4JfiKJWY",
-          "https://drive.google.com/uc?export=view&id=1H1RhBgjli5lr5PqHoPsQo0Q6HKXUC2lA",
-          "https://drive.google.com/uc?export=view&id=1tcq5WYj7SEwEZ-gmTxBpaxJGVb4slYXZ"
-        ]
+        "ジョジョの奇妙な冒険": "/proxy/api/imgur/chapter/n2HAy1q"
       }
     }
   }
