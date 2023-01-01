@@ -52,6 +52,22 @@
       "groups": {
         "ファントム・ブラッド": "/proxy/api/imgur/chapter/hfVYIgS"
       }
+    },
+    "7": {
+      "title": "Chapter 7・過去からの手紙その2",
+      "volume": "1",
+      "last_updated": "1672583513",
+      "groups": {
+        "ファントム・ブラッド": "/proxy/api/imgur/chapter/OFf80nf"
+      }
+    },
+    "8": {
+      "title": "Chapter 8・石仮面その１",
+      "volume": "1",
+      "last_updated": "1672583740",
+      "groups": {
+        "ファントム・ブラッド": "/proxy/api/imgur/chapter/M29jbg6"
+      }
     }
   }
 }
