@@ -6,19 +6,11 @@
   "cover": "",
   "chapters": {
     "1": {
-      "title": "Chapter 1・プロローグ",
+      "title": "Chapter 1プロローグ",
       "volume": "1",
-      "last_updated": "1672408835",
+      "last_updated": "1672569023",
       "groups": {
         "ファントム・ブラッド": "/proxy/api/imgur/chapter/SH3sSBO"
-      }
-    },
-    "2": {
-      "title": "Chapter 2・侵略者ディオ・ブランドその１",
-      "volume": "1",
-      "last_updated": "1672409256",
-      "groups": {
-        "ファントム・ブラッド": "/proxy/api/imgur/chapter/kj1mSPJ"
       }
     }
   }
