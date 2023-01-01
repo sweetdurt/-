@@ -84,6 +84,22 @@
       "groups": {
         "第1部ファントム・ブラッド": "/proxy/api/imgur/chapter/C0rLOYD"
       }
+    },
+    "11": {
+      "title": "Chapter 11・石仮面その４",
+      "volume": "2",
+      "last_updated": "1672589431",
+      "groups": {
+        "第1部ファントム・ブラッド": "/proxy/api/imgur/chapter/r8ySTE5"
+      }
+    },
+    "12": {
+      "title": "Chapter 12・ディオとの青春その１",
+      "volume": "2",
+      "last_updated": "1672590054",
+      "groups": {
+        "第1部ファントム・ブラッド": "/proxy/api/imgur/chapter/UQfoKWc"
+      }
     }
   }
 }
