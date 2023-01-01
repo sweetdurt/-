@@ -12,6 +12,30 @@
       "groups": {
         "ファントム・ブラッド": "/proxy/api/imgur/chapter/SH3sSBO"
       }
+    },
+    "2": {
+      "title": "Chapter 2・侵略者ディオ・ブラッドーその１",
+      "volume": "1",
+      "last_updated": "1672569399",
+      "groups": {
+        "ファントム・ブラッド": "/proxy/api/imgur/chapter/kj1mSPJ"
+      }
+    },
+    "3": {
+      "title": "Chapter 2・侵略者ディオ・ブラッドーその2",
+      "volume": "1",
+      "last_updated": "1672569459",
+      "groups": {
+        "ファントム・ブラッド": "/proxy/api/imgur/chapter/HH0Aoff"
+      }
+    },
+    "4": {
+      "title": "侵略者ディオ・ブラッドーその3",
+      "volume": "1",
+      "last_updated": "1672569558",
+      "groups": {
+        "ファントム・ブラッド": "/proxy/api/imgur/chapter/3Yg3Gwg"
+      }
     }
   }
 }
